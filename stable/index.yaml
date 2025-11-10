@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  guestbook:
+  - apiVersion: v2
+    appVersion: v5
+    created: "2025-11-10T21:04:15.957984528Z"
+    dependencies:
+    - name: redis
+      repository: https://charts.bitnami.com/bitnami
+      version: 23.2.x
+    description: Used to deploy the Guestbook application
+    digest: 71ea1ec39bc68e54c7f2b1da19b1f995ea3a9c7000a69b4db3b1f1ea442a1171
+    name: guestbook
+    type: application
+    urls:
+    - guestbook-1.0.2.tgz
+    version: 1.0.2
+generated: "2025-11-10T21:04:15.941364432Z"
