@@ -3,7 +3,7 @@ entries:
   guestbook:
   - apiVersion: v2
     appVersion: v5
-    created: "2025-11-11T15:58:35.203035125Z"
+    created: "2025-11-11T16:20:32.611958038Z"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -18,9 +18,9 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-11-11T15:58:35.203410532Z"
+    created: "2025-11-11T16:20:32.61437262Z"
     description: A Helm chart for Kubernetes
-    digest: 673dfd424e8f5640cad9077d3322cad3a2e3c3d95ad30b5828d710acb54ec1e7
+    digest: d56680a6323bef15b61115003545e54ffdcf12c8704ae0cb92e1e8bb5363a196
     maintainers:
     - name: PacktPublishing
     name: nginx
@@ -28,4 +28,4 @@ entries:
     urls:
     - nginx-1.0.0.tgz
     version: 1.0.0
-generated: "2025-11-11T15:58:35.076550832Z"
+generated: "2025-11-11T16:20:32.553684913Z"
